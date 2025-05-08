@@ -22,7 +22,7 @@
             </div>
             @auth
             <div>
-                <a href="/job/create">Post a Job</a>
+                <a href="/jobs/create">Post a Job</a>
             </div>
             @endauth
             @guest
