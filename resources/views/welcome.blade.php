@@ -1,6 +1,6 @@
 <x-layout>
-    <div class="space-y-10 text-center">
-        <section class="pt-6">
+    <div class="space-y-10">
+        <section class="pt-6 text-center">
             <h1 class="font-bold text-4xl">Let's Find Your Next Job</h1>
 
             <form action="" class="mt-6">
